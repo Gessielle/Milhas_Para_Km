@@ -1,0 +1,13 @@
+C:\Users\POSITIVO\Desktop\PC1\Milhas para Km\bin\Debug\netcoreapp3.1\Milhas para Km.exe
+C:\Users\POSITIVO\Desktop\PC1\Milhas para Km\bin\Debug\netcoreapp3.1\Milhas para Km.deps.json
+C:\Users\POSITIVO\Desktop\PC1\Milhas para Km\bin\Debug\netcoreapp3.1\Milhas para Km.runtimeconfig.json
+C:\Users\POSITIVO\Desktop\PC1\Milhas para Km\bin\Debug\netcoreapp3.1\Milhas para Km.runtimeconfig.dev.json
+C:\Users\POSITIVO\Desktop\PC1\Milhas para Km\bin\Debug\netcoreapp3.1\Milhas para Km.dll
+C:\Users\POSITIVO\Desktop\PC1\Milhas para Km\bin\Debug\netcoreapp3.1\Milhas para Km.pdb
+C:\Users\POSITIVO\Desktop\PC1\Milhas para Km\obj\Debug\netcoreapp3.1\Milhas para Km.csprojAssemblyReference.cache
+C:\Users\POSITIVO\Desktop\PC1\Milhas para Km\obj\Debug\netcoreapp3.1\Milhas para Km.AssemblyInfoInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Milhas para Km\obj\Debug\netcoreapp3.1\Milhas para Km.AssemblyInfo.cs
+C:\Users\POSITIVO\Desktop\PC1\Milhas para Km\obj\Debug\netcoreapp3.1\Milhas para Km.csproj.CoreCompileInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Milhas para Km\obj\Debug\netcoreapp3.1\Milhas para Km.dll
+C:\Users\POSITIVO\Desktop\PC1\Milhas para Km\obj\Debug\netcoreapp3.1\Milhas para Km.pdb
+C:\Users\POSITIVO\Desktop\PC1\Milhas para Km\obj\Debug\netcoreapp3.1\Milhas para Km.genruntimeconfig.cache
